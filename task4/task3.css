@@ -1,0 +1,46 @@
+.footer {
+    background-color: gray;
+    padding: 0px 0px;
+    width: 2200px;
+    height: 200px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: black;
+    text-align: left;
+    margin-bottom: 5;
+    
+    
+}
+.links-2 {
+    display: table;
+    list-style-type: none;
+    padding: 5px 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12pt;
+    font-weight: bold;
+
+}
+
+.links-2:hover{
+    color: black;
+}
+img {
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    border-radius: 10px;
+    
+
+}
+    
+table {
+    align: center;
+    float: center;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
